@@ -1,0 +1,27 @@
+h1{
+    color:maroon;
+    text-align: center;
+}
+div{
+    background-color: rgb(235, 160, 160);
+}
+form{
+    text-align: center;
+}
+input{
+    height: 30px;
+    width: 300px;
+}
+textarea{
+    height: 100px;
+    width: 300px;
+}
+.button{
+height: 50px;
+width: 100px;
+}
+.info{
+    text-align: center;
+    font-size: 25px;
+}
+
